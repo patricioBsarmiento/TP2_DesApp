@@ -1,0 +1,49 @@
+﻿body {
+    background-color: antiquewhite;
+}
+
+table {
+    align-content: end;
+}
+.contenido {
+    
+}
+
+tbody {
+    margin: auto auto;
+    display: block;
+    
+    width: 100%;
+}
+
+.label {
+    background-color: #0000FF;
+    color: #00FF00;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+
+.obligatorio{
+    background-color: #FF0000;
+    color: #FFFFFF;
+    font-size: 14px;
+    font: bold;
+}
+
+.preferencias {
+    background-color: #00FF00;
+    color: #000000;
+    font-size: 8px;
+}
+
+.enfocada{
+    background-color: #66CCFF;
+    color: #3333CC;
+    font-family: Calibri;
+}
+
+.desenfocada{
+    background-color: #FFFFFF;
+    color: #000000;
+    font-family: Arial;
+}
