@@ -10,6 +10,27 @@
 <body>
     <form id="form1" runat="server">
         <div>
+            <h1>Datos</h1>
+            <asp:HyperLink NavigateUrl="~/IngresoAlumno.aspx" runat="server" Text="Volver" />
+            <table border="1">
+                <tr>
+                    <th>
+
+                    </th>
+                    <th>
+
+                    </th>
+                    <th>
+
+                    </th>
+                    <th>
+
+                    </th>
+                    <th>
+
+                    </th>
+                </tr>
+            </table>
         </div>
     </form>
 </body>

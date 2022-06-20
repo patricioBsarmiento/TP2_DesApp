@@ -27,6 +27,8 @@ namespace TP2_Desa_app
             comando.ExecuteNonQuery();
 
             conn.Close();
+
+            Response.Redirect("MostrarDatos.aspx"); 
         }
 
         protected void Limpiar_Click(object sender, EventArgs e)
